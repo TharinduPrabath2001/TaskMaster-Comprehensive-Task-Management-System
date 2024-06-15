@@ -1,0 +1,14 @@
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\ptppr\Desktop\BIT UoM\Semester 01\ITE1112 - Visual Application Programming\Week 14\Learning Activity 16\WindowsFormsApp1\bin\Debug\Database1_log.ldf
