@@ -19,3 +19,4 @@ organizations to optimize their task management processes, leading to enhanced p
 streamlined workflows, and improved outcomes. By facilitating efficient task management, 
 TaskMaster enables stakeholders to focus their time and efforts on driving innovation, 
 achieving goals, and delivering value to their customers and stakeholders.
+![My Image](https://github.com/TharinduPrabath2001/TaskMaster-Comprehensive-Task-Management-System/blob/main/Properties/Resources/Screenshot%202024-07-05%20210855.png)
